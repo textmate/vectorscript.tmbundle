@@ -8,10 +8,6 @@
 	<array>
 		<string>vss</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>^\s*(PROCEDURE|FUNCTION)</string>
-	<key>foldingStopMarker</key>
-	<string>^\s*END;</string>
 	<key>name</key>
 	<string>Vectorscript</string>
 	<key>patterns</key>
